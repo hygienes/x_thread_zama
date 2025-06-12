@@ -6,3 +6,4 @@ _Secret_
 
 ## 🟨 Requirements:
 1. 📝 Write an engaging thread about Zama and/or FHE (minimum 3 tweets).
+2. 📤 Share on X (Twitter), tag with #ZamaCreatorProgram and @zama_fhe.
